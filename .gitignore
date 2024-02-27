@@ -10,5 +10,6 @@ reference
 GPT_weights
 SoVITS_weights
 TEMP
-
-
+pretrained_models/
+tools/damo_asr/
+tools/uvr5/uvr5_weights/
